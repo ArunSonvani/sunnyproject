@@ -18,11 +18,7 @@ class _HomeState extends State<Home> {
         centerTitle: true,
       ),
       body: Column(children: [
-        Text("What is your name"),
-        Text("my name is Ranjeet"),
-        Text("in word"),
-        Text("hello is the same code"),
-        Text("my name is Sumit"),
+        Text("what is your name"),
       ]),
     );
   }
