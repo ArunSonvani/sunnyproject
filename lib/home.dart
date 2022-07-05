@@ -22,6 +22,7 @@ class _HomeState extends State<Home> {
         Text("my name is Ranjeet"),
         Text("in word"),
         Text("hello is the same code"),
+        Text("my name is Sumit"),
       ]),
     );
   }
